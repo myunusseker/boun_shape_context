@@ -7,3 +7,5 @@ In this repository:
 - V-REP Scene for generating random shapes
 - Python Drivers for making experiments on simulator
 - Matlab codes for machine learning models and experiments
+
+More detailed information will be added soon.
